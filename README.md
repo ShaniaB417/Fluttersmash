@@ -2,6 +2,9 @@
 
 Welcome to **Fluttersmath VR**—a unique virtual reality experience set on an exotic, distant planet. As part of the **Galaxy Cabana** resort, you will explore stunning landscapes, interact with alien creatures, and uncover the secrets of this new world. Prepare for an immersive adventure like no other!
 
+## Photos
+Here are some screenshots and photos from **Fluttersmath VR**:
+
 ![Screenshot 2024-09-07 021338](https://github.com/user-attachments/assets/0a2fbaeb-bf4c-4d45-9d54-85bd44587308)
 *Player in front of the table of weapons and the dome.
 
@@ -21,14 +24,7 @@ Welcome to **Fluttersmath VR**—a unique virtual reality experience set on an e
 - **XR Interaction Toolkit**: For user interaction within the VR experience.
 - **Meta (Oculus) SDK**: Supporting the Oculus platform for VR.
 
-## Photos
-Here are some screenshots and photos from **Fluttersmath VR**:
 
-![Screenshot 1](link-to-image-1)
-*Description of Screenshot 1*
-
-![Screenshot 2](link-to-image-2)
-*Description of Screenshot 2*
 
 ## Contributors
 We'd like to extend a big thank you to all of the amazing people who contributed to **Fluttersmath VR**:
