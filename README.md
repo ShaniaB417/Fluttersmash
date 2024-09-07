@@ -29,7 +29,7 @@ Here are some screenshots and photos from **Fluttersmath VR**:
 ## Contributors
 We'd like to extend a big thank you to all of the amazing people who contributed to **Fluttersmath VR**:
 
-- [**Shania Brown**](https://github.com/ShaniaB417) - Vitual Reality Developer, Preformance Tester, XR Researcher
+- [**Shania Brown**](https://github.com/ShaniaB417) - Virtual Reality Developer, Preformance Tester, XR Researcher
 - [**John-Bryan Nicdao**](https://github.com/Lunarking030) - Weapon Developer, Sound Designer, Enemy AI Developer
 - [**Manya Mankad**](https://www.linkedin.com/in/manya-mankad-91a78b203/) - Level Designer, Game Designer, Developer, 3D Modeler, UI Designer, Character Modeler
 
