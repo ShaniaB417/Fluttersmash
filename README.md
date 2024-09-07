@@ -33,9 +33,7 @@ We'd like to extend a big thank you to all of the amazing people who contributed
 - [**Shania Brown**](https://github.com/ShaniaB417) - Developer, Tester, Researcher
 - [**Contributor Name**](https://github.com/contributorusername) - Role (e.g., 3D Modeler, UI Designer)
 - [**Contributor Name**](https://github.com/contributorusername) - Role (e.g., Story Writer, Sound Designer)
-- [**Contributor Name**](https://github.com/contributorusername) - Role (e.g., Tester, Researcher)
 
-Want to contribute? Feel free to fork the repository and submit a pull request. We welcome all suggestions and improvements!
 
 ---
 
