@@ -1,4 +1,4 @@
-# Fluttersmath VR
+# Fluttersmash VR
 
 Welcome to **Fluttersmath VR**—a unique virtual reality experience set on an exotic, distant planet. As part of the **Galaxy Cabana** resort, you will explore stunning landscapes, interact with alien creatures, and uncover the secrets of this new world. Prepare for an immersive adventure like no other!
 
