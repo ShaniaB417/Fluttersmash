@@ -25,7 +25,7 @@ Here are some screenshots and photos from **Fluttersmath VR**:
 *Description of Screenshot 2*
 
 ![Screenshot 3](![Screenshot 2024-09-07 021338](https://github.com/user-attachments/assets/0a2fbaeb-bf4c-4d45-9d54-85bd44587308))
-*Description of Screenshot 3*
+*Player in front of the table of weapons and the dome.*
 
 
 
