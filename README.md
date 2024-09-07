@@ -30,7 +30,7 @@ Here are some screenshots and photos from **Fluttersmath VR**:
 ## Contributors
 We'd like to extend a big thank you to all of the amazing people who contributed to **Fluttersmath VR**:
 
-- [**Shania Brown**](https://github.com/yourusername) - Developer, Tester, Researcher
+- [**Shania Brown**](https://github.com/ShaniaB417) - Developer, Tester, Researcher
 - [**Contributor Name**](https://github.com/contributorusername) - Role (e.g., 3D Modeler, UI Designer)
 - [**Contributor Name**](https://github.com/contributorusername) - Role (e.g., Story Writer, Sound Designer)
 - [**Contributor Name**](https://github.com/contributorusername) - Role (e.g., Tester, Researcher)
